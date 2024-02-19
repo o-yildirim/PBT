@@ -10,10 +10,9 @@ liac-arff = 2.5.0
 requests = 2.31.0
 
 <h2>ML libraries:</h2>
+
 river = 0.8.0
-
 scikit-learn = 1.1.3
-
 scikit-multilearn = 0.2.0
 
 
