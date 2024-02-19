@@ -1,5 +1,5 @@
 # PBT
-Prioritized Binary Transformation method for multi-label data streams with large number of labels\
+Prioritized Binary Transformation method for multi-label data streams with large number of labels
 
 # Requirements
 Results may vary based on the versions of the libraries. The following versions are the ones that we used throughout our experiments.
