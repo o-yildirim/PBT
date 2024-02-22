@@ -1,4 +1,4 @@
-# PBT
+# PBT (Prioritized Binary Transformation)
 Prioritized Binary Transformation method for multi-label data streams with large number of labels
 
 # Requirements
