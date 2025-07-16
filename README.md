@@ -1,7 +1,8 @@
 # PBT (Prioritized Binary Transformation)
 Prioritized Binary Transformation method for multi-label data streams with large number of labels.
 
-In case of use, please cite our paper:
+In case of use, please cite our paper:  
+
 Onur Yildirim, Sepehr Bakhshi and Fazli Can. Prioritized Binary Transformation
 Method for Efficient Multi-label Classification of Data Streams
 with Many Labels. Proceedings of the 33rd ACM International Conference
